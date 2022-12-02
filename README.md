@@ -1,2 +1,2 @@
-# pre-work-study-giude
+# prework-study-giude
 Bootcamp Pre-work
